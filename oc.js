@@ -1,1 +1,3 @@
-alert("HELLO WORLD !!!");
+var alert = "HELLLOOOOOO WWOOOORRRLLLLDDD !!!!!";
+
+alert(alert);
